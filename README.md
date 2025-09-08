@@ -7,7 +7,8 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 ## Tools Used: 
 - Python (Pandas, Matplotlib, Seaborn, numpy, scikit-learn)
 - Jupyter Notebook
-## 📂 Dataset :[Telco_Customer_Churn.csv](https://github.com/user-attachments/files/22206998/Telco_Customer_Churn.csv)
+## 📂 Dataset :
+- **Telco_Customer_Churn :** [Telco_Customer_Churn.csv](https://github.com/user-attachments/files/22206998/Telco_Customer_Churn.csv)
 
 ## 🔎 Steps Performed
 
