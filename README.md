@@ -27,9 +27,9 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
 #### Model Building
 
-_ Split dataset into train (80%) and test (20%) sets.
+- Split dataset into train (80%) and test (20%) sets.
 
-- Trained two models:
+- ### Trained two models:
 
 - Logistic Regression
 
