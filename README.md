@@ -1,17 +1,17 @@
 # Task-4
 ## 📌 Customer Churn Prediction (Telecom)
 
-### 🎯 Objective
+## 🎯 Objective
 
 This project predicts whether a telecom customer is likely to churn (leave the service) based on their demographic, account, and usage details.
-### Tools Used: 
+## Tools Used: 
 - Python (Pandas, Matplotlib, Seaborn, numpy, scikit-learn)
 - Jupyter Notebook
-### 📂 Dataset :[Telco_Customer_Churn.csv](https://github.com/user-attachments/files/22206998/Telco_Customer_Churn.csv)
+## 📂 Dataset :[Telco_Customer_Churn.csv](https://github.com/user-attachments/files/22206998/Telco_Customer_Churn.csv)
 
 ## 🔎 Steps Performed
 
-#### Data Preprocessing
+### Data Preprocessing
 
 - Dropped customerID (not useful for prediction).
 
@@ -25,17 +25,17 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
 - Scaled numerical columns (tenure, MonthlyCharges, TotalCharges) using StandardScaler.
 
-#### Model Building
+### Model Building
 
 - Split dataset into train (80%) and test (20%) sets.
 
-- ### Trained two models:
+- #### Trained two models:
 
 - Logistic Regression
 
 - Random Forest Classifier
 
-#### Model Evaluation
+### Model Evaluation
 
 - Accuracy Score
   
@@ -45,7 +45,7 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
 - Feature Importance (Random Forest)
 
-#### Model Saving
+### Model Saving
 
 - Best performing model (RandomForestClassifier) was saved as churn_model.pkl using joblib.
 
