@@ -57,9 +57,9 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
   ### Top Features Influencing Churn:
 
- - Monthly charges
+   - Monthly charges
 
- - Payment method
+   - Payment method
 
- - Online security
+   - Online security
 
