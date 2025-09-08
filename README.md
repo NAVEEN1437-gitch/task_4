@@ -29,11 +29,11 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
 - Split dataset into train (80%) and test (20%) sets.
 
-- #### Trained two models:
+  #### Trained two models:
 
-- Logistic Regression
+  - Logistic Regression
 
-- Random Forest Classifier
+  - Random Forest Classifier
 
 ### Model Evaluation
 
@@ -56,9 +56,9 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
   ### Top Features Influencing Churn:
 
-- Monthly charges
+ - Monthly charges
 
-- Payment method
+ - Payment method
 
-- Online security
+ - Online security
 
