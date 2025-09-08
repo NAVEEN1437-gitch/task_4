@@ -50,11 +50,11 @@ _ Split dataset into train (80%) and test (20%) sets.
 - Best performing model (RandomForestClassifier) was saved as churn_model.pkl using joblib.
 
 
-  ## 📊 Results
+## 📊 Results
 
 - Random Forest Accuracy: ***79%***
 
-  ###### Top Features Influencing Churn:
+  ### Top Features Influencing Churn:
 
 - Monthly charges
 
